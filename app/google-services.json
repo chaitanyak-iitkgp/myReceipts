@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519577135301",
+    "project_id": "myreciepts",
+    "storage_bucket": "myreciepts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519577135301:android:d93f3dca3d5f675df768ac",
+        "android_client_info": {
+          "package_name": "com.chaitanyakhiratkar.myreceipts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVKHG2W1zJqCenzf4XUj7a0KjgBy56Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
